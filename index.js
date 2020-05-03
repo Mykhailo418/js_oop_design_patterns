@@ -1,3 +1,4 @@
 // -- SOLID:
 //require('./solid/single_responsibility');
-require('./solid/open_close');
+//require('./solid/open_close');
+require('./solid/liskov_substitution');

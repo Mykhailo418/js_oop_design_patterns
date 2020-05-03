@@ -18,6 +18,10 @@ class Rectangle {
     return this._width * this._height;
   }
 
+  isSquare() {
+    return this._width === this._height;
+  }
+
   toString() {
     return `${this._width}×${this._height}`;
   }

@@ -1,5 +1,6 @@
 // SOLID: Interface Segregation Principle
 // Many specialized interfaces are better than one universal
+// Do not put too much into an interface; split into separate interfaces
 
 // Interface
 class Machine {

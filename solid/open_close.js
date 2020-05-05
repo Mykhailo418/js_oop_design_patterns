@@ -1,5 +1,5 @@
 // SOLID: Open-Close Principle
-// Objects or cClasses should be open for extension, but closed for modification
+// Objects or Classes should be open for extension, but closed for modification
 
 let Color = Object.freeze({
   red: 'red',

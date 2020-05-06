@@ -1,5 +1,5 @@
 // Factory: the same as Factory method except that instead methods it uses separate Class with methods
-
+// Entity that takes care of object creation
 CoordinateSystem = {
   CARTESIAN : 0,
   POLAR : 1

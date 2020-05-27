@@ -1,4 +1,4 @@
-// Chaon Of Responsibility Example: Method Chain
+// Chain Of Responsibility Example: Method Chain
 
 class Creature {
   constructor(name, attack, defense) {
